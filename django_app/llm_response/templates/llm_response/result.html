@@ -1,0 +1,29 @@
+<!-- my_app/templates/my_app/result.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuel your game with AI-mazing nutrition</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'llm_response/result_styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Fuel your game with AI-mazing nutrition</h1>
+        <img src="{% static 'llm_response/sport_background.png' %}" alt="Sport Background" class="background-image">
+    </header>
+    
+    <main>
+        <section class="response-section">
+            <h2>Here is an answer:</h2>
+            <div class="response">
+                <p>{{ llm_response | safe}}</p>
+            </div>
+            <a href="{% url 'llm_response:process_question' %}" class="back-button">Ask another question</a>
+        </section>
+        
+    </main>
+
+</body>
+</html>

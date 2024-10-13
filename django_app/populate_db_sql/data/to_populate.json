@@ -1,0 +1,2485 @@
+{
+    "recipes": [
+        {
+            "name": "Spaghetti Bolognese",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Spaghetti",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 220,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "43g",
+                        "proteins": "7g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Ground Beef",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 250,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "8g",
+                        "carbohydrates": "0g",
+                        "proteins": "20g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Tomato Sauce",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 70,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "16g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Parmesan Cheese",
+                    "amount": "30g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "6g",
+                        "carbohydrates": "1g",
+                        "proteins": "10g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Boil water and cook the spaghetti for 10 minutes until al dente.",
+                "In a pan, cook the ground beef until browned and cooked through.",
+                "Add the tomato sauce to the beef and simmer for 10 minutes.",
+                "Serve the spaghetti with the beef sauce, topped with grated Parmesan cheese."
+            ]
+        },
+        {
+            "name": "Chicken Caesar Salad",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 165,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3.5g",
+                        "carbohydrates": "0g",
+                        "proteins": "31g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Romaine Lettuce",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 15,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Caesar Dressing",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 180,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Dairy",
+                        "Egg"
+                    ]
+                },
+                {
+                    "name": "Croutons",
+                    "amount": "30g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "25g",
+                        "proteins": "3g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                }
+            ],
+            "steps": [
+                "Grill the chicken breast until fully cooked, then slice it.",
+                "Toss the romaine lettuce with Caesar dressing.",
+                "Add the grilled chicken and croutons to the salad.",
+                "Serve immediately with optional Parmesan cheese topping."
+            ]
+        },
+        {
+            "name": "Vegetable Stir-Fry",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Broccoli",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 35,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "7g",
+                        "proteins": "3g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Bell Peppers",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 30,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "6g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Soy Sauce",
+                    "amount": "20g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                },
+                {
+                    "name": "Tofu",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "2g",
+                        "proteins": "12g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Stir-fry the tofu until golden brown, then remove and set aside.",
+                "In the same pan, stir-fry the broccoli and bell peppers until tender.",
+                "Add the tofu back to the pan, and pour the soy sauce over the vegetables.",
+                "Stir everything together and serve hot."
+            ]
+        },
+        {
+            "name": "Egg Fried Rice",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Rice",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 250,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "55g",
+                        "proteins": "5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Egg",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 140,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3g",
+                        "carbohydrates": "1g",
+                        "proteins": "12g"
+                    },
+                    "allergens": [
+                        "Egg"
+                    ]
+                },
+                {
+                    "name": "Green Onion",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Soy Sauce",
+                    "amount": "20g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the rice and set aside to cool.",
+                "Whisk the eggs and cook them in a pan until scrambled.",
+                "Add the cooked rice to the pan and stir in the eggs.",
+                "Add green onions and soy sauce. Stir-fry until everything is mixed together and heated through."
+            ]
+        },
+        {
+            "name": "Chicken Curry",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Thighs",
+                    "amount": "250g",
+                    "nutritional_value": {
+                        "calories": 250,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "6g",
+                        "carbohydrates": "0g",
+                        "proteins": "25g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Coconut Milk",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "14g",
+                        "carbohydrates": "3g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "Coconut"
+                    ]
+                },
+                {
+                    "name": "Curry Powder",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Rice",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 250,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "55g",
+                        "proteins": "5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the chicken thighs until browned.",
+                "Add curry powder and stir for a minute before adding the coconut milk.",
+                "Simmer for 20 minutes.",
+                "Serve the curry with steamed rice."
+            ]
+        },
+        {
+            "name": "Beef Tacos",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Ground Beef",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 250,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "8g",
+                        "carbohydrates": "0g",
+                        "proteins": "20g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Taco Shells",
+                    "amount": "70g",
+                    "nutritional_value": {
+                        "calories": 100,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "20g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Cheddar Cheese",
+                    "amount": "30g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "6g",
+                        "carbohydrates": "1g",
+                        "proteins": "10g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Lettuce",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 5,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Brown the ground beef and add taco seasoning.",
+                "Fill taco shells with beef, shredded lettuce, and cheese.",
+                "Serve with salsa or guacamole if desired."
+            ]
+        },
+        {
+            "name": "Salmon with Asparagus",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Salmon Fillet",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 300,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "5g",
+                        "carbohydrates": "0g",
+                        "proteins": "30g"
+                    },
+                    "allergens": [
+                        "Fish"
+                    ]
+                },
+                {
+                    "name": "Asparagus",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Grill the salmon fillet with olive oil and season.",
+                "Roast the asparagus with olive oil in the oven until tender.",
+                "Serve the salmon on a plate with the roasted asparagus."
+            ]
+        },
+        {
+            "name": "Grilled Chicken Sandwich",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 165,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3.5g",
+                        "carbohydrates": "0g",
+                        "proteins": "31g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Whole Wheat Bread",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 160,
+                        "fiber": "4g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "30g",
+                        "proteins": "6g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Lettuce",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 5,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Tomato",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 5,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Mayonnaise",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 90,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "Egg",
+                        "Dairy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Grill the chicken breast until fully cooked.",
+                "Toast the whole wheat bread slices.",
+                "Spread mayonnaise on both slices of bread.",
+                "Assemble the sandwich with grilled chicken, lettuce, tomato, and the bread."
+            ]
+        },
+        {
+            "name": "Vegetable Soup",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Carrot",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 41,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "10g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Potatoes",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 130,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "30g",
+                        "proteins": "3g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Onion",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Tomato",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Vegetable Broth",
+                    "amount": "500g",
+                    "nutritional_value": {
+                        "calories": 50,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "10g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Dice the carrots, potatoes, onion, and tomato.",
+                "In a pot, heat the vegetable broth and add the diced vegetables.",
+                "Simmer for 20-30 minutes until the vegetables are tender.",
+                "Serve hot and enjoy!"
+            ]
+        },
+        {
+            "name": "Pasta Primavera",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Pasta",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 220,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "43g",
+                        "proteins": "7g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Zucchini",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Bell Pepper",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 15,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Parmesan Cheese",
+                    "amount": "30g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "6g",
+                        "carbohydrates": "1g",
+                        "proteins": "10g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the pasta according to package instructions.",
+                "In a pan, heat olive oil and sauté the zucchini and bell pepper until soft.",
+                "Add the cooked pasta to the pan and toss everything together.",
+                "Serve with a sprinkle of Parmesan cheese."
+            ]
+        },
+        {
+            "name": "Shrimp Scampi",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Shrimp",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "1g",
+                        "proteins": "23g"
+                    },
+                    "allergens": [
+                        "Shellfish"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "10g",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Linguine",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 220,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "43g",
+                        "proteins": "7g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Lemon Juice",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the linguine according to package directions.",
+                "In a pan, heat olive oil and sauté garlic until fragrant.",
+                "Add the shrimp and cook until pink, then add the lemon juice.",
+                "Toss the shrimp with the cooked linguine and serve hot."
+            ]
+        },
+        {
+            "name": "Quinoa Salad",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Quinoa",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "22g",
+                        "proteins": "4g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Cucumber",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Feta Cheese",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "7g",
+                        "carbohydrates": "1g",
+                        "proteins": "10g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Lemon Juice",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the quinoa as per the instructions on the package.",
+                "Dice the cucumber and crumble the feta cheese.",
+                "In a bowl, combine the quinoa, cucumber, feta, olive oil, and lemon juice.",
+                "Serve chilled."
+            ]
+        },
+        {
+            "name": "Chicken Stir Fry",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 220,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3.5g",
+                        "carbohydrates": "0g",
+                        "proteins": "43g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Bell Peppers",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 25,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "6g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Soy Sauce",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "10g",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Heat the olive oil in a pan and add minced garlic.",
+                "Add diced chicken breast and cook until golden brown.",
+                "Add sliced bell peppers and stir-fry for 5-7 minutes.",
+                "Pour in soy sauce and stir well. Cook for another 2 minutes.",
+                "Serve hot with steamed rice."
+            ]
+        },
+        {
+            "name": "Baked Salmon",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Salmon Fillet",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 280,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "3.5g",
+                        "carbohydrates": "0g",
+                        "proteins": "39g"
+                    },
+                    "allergens": [
+                        "Fish"
+                    ]
+                },
+                {
+                    "name": "Lemon",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 5,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "2 cloves",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Preheat oven to 375°F (190°C).",
+                "Place salmon fillet on a baking tray, drizzle with olive oil and lemon juice.",
+                "Add minced garlic on top of the salmon.",
+                "Bake for 15-20 minutes, until salmon is cooked through.",
+                "Serve with steamed vegetables or a side salad."
+            ]
+        },
+        {
+            "name": "Vegetarian Chili",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Kidney Beans",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "6g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "22g",
+                        "proteins": "8g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Tomatoes",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 18,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Onion",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 45,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "11g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Heat olive oil in a pot and sauté diced onion until translucent.",
+                "Add kidney beans, diced tomatoes, and spices (such as cumin and chili powder).",
+                "Simmer for 20 minutes, stirring occasionally.",
+                "Serve hot with a dollop of sour cream or some shredded cheese on top."
+            ]
+        },
+        {
+            "name": "Lentil Soup",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Lentils",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 116,
+                        "fiber": "8g",
+                        "saturated_fatty_acids": "0.2g",
+                        "carbohydrates": "20g",
+                        "proteins": "9g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Carrots",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 41,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "10g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Onion",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 45,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "11g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "2 cloves",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Heat olive oil in a large pot and sauté the chopped onions and garlic.",
+                "Add carrots and lentils, then stir for 2 minutes.",
+                "Add water (or vegetable broth) and bring to a boil.",
+                "Reduce heat and simmer for 30 minutes, until lentils are tender.",
+                "Season with salt, pepper, and any additional spices, and serve warm."
+            ]
+        },
+        {
+            "name": "Sweet Potato Fries",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Sweet Potato",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "4g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "28g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Paprika",
+                    "amount": "1 tsp",
+                    "nutritional_value": {
+                        "calories": 6,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Garlic Powder",
+                    "amount": "5g",
+                    "nutritional_value": {
+                        "calories": 3,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Preheat oven to 400°F (200°C).",
+                "Cut sweet potatoes into fries and toss with olive oil, paprika, and garlic powder.",
+                "Place on a baking tray and bake for 25 minutes, flipping halfway through.",
+                "Serve warm with your favorite dipping sauce."
+            ]
+        },
+        {
+            "name": "Grilled Veggie Skewers",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Bell Peppers",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 25,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "6g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Zucchini",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Cherry Tomatoes",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 18,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Lemon Juice",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 4,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Preheat the grill to medium heat.",
+                "Thread the vegetables onto skewers and brush with olive oil and lemon juice.",
+                "Grill for 4-5 minutes on each side, until vegetables are tender and slightly charred.",
+                "Serve with your favorite dipping sauce or alongside a grilled main course."
+            ]
+        },
+        {
+            "name": "Quinoa Salad with Avocado",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Quinoa",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "21g",
+                        "proteins": "4g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Avocado",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 80,
+                        "fiber": "6g",
+                        "saturated_fatty_acids": "1.3g",
+                        "carbohydrates": "8g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Cherry Tomatoes",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 18,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Lemon Juice",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 4,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook quinoa according to package instructions and let it cool.",
+                "Chop avocado and cherry tomatoes.",
+                "In a bowl, combine the quinoa, avocado, and tomatoes.",
+                "Drizzle with olive oil and lemon juice.",
+                "Season with salt and pepper, and serve chilled."
+            ]
+        },
+        {
+            "name": "Spaghetti Aglio e Olio",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Spaghetti",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 158,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "31g",
+                        "proteins": "6g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "3 cloves",
+                    "nutritional_value": {
+                        "calories": 12,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "3g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "3 tbsp",
+                    "nutritional_value": {
+                        "calories": 360,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "6g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Red Chili Flakes",
+                    "amount": "1 tsp",
+                    "nutritional_value": {
+                        "calories": 6,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Parsley",
+                    "amount": "2 tbsp",
+                    "nutritional_value": {
+                        "calories": 1,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook the spaghetti in salted water according to package instructions.",
+                "While the pasta is cooking, heat olive oil in a pan over medium heat and add sliced garlic.",
+                "Cook the garlic until golden brown, then add red chili flakes.",
+                "Drain the spaghetti and add it to the pan, tossing to coat in the garlic and oil.",
+                "Top with chopped parsley and serve immediately."
+            ]
+        },
+        {
+            "name": "Vegetable Stir-Fry with Tofu",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Tofu",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 144,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "2g",
+                        "proteins": "15g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                },
+                {
+                    "name": "Broccoli",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 35,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "7g",
+                        "proteins": "3g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Bell Peppers",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 25,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "6g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Soy Sauce",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                },
+                {
+                    "name": "Sesame Oil",
+                    "amount": "1 tsp",
+                    "nutritional_value": {
+                        "calories": 40,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "1g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "Sesame"
+                    ]
+                }
+            ],
+            "steps": [
+                "Press tofu to remove excess moisture, then cut into cubes.",
+                "Stir-fry tofu in a pan with sesame oil until golden brown on all sides.",
+                "Add broccoli and bell peppers to the pan and stir-fry for 3-4 minutes.",
+                "Pour in the soy sauce and cook for an additional 2 minutes.",
+                "Serve warm over steamed rice."
+            ]
+        },
+        {
+            "name": "Mango Chicken Salad",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 165,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "1.5g",
+                        "carbohydrates": "0g",
+                        "proteins": "31g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Mango",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 60,
+                        "fiber": "1.6g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "15g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Mixed Greens",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Lime Juice",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 4,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook chicken breast until fully cooked, then slice into strips.",
+                "In a bowl, mix the chicken, sliced mango, and mixed greens.",
+                "Drizzle with olive oil and lime juice.",
+                "Toss gently and serve immediately."
+            ]
+        },
+        {
+            "name": "Caprese Salad",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Tomatoes",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 18,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Fresh Mozzarella",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "7g",
+                        "carbohydrates": "1g",
+                        "proteins": "10g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Basil",
+                    "amount": "2 tbsp",
+                    "nutritional_value": {
+                        "calories": 1,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Balsamic Glaze",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "5g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Slice tomatoes and fresh mozzarella into rounds.",
+                "Arrange the tomato and mozzarella slices on a plate, alternating them.",
+                "Top with fresh basil leaves.",
+                "Drizzle with olive oil and balsamic glaze.",
+                "Season with salt and pepper, and serve immediately."
+            ]
+        },
+        {
+            "name": "Pumpkin Soup",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Pumpkin",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 50,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "12g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Onion",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 45,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "11g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "amount": "2 cloves",
+                    "nutritional_value": {
+                        "calories": 8,
+                        "fiber": "0.5g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "0.5g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Vegetable Broth",
+                    "amount": "500ml",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Coconut Milk",
+                    "amount": "100ml",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "15g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Coconut"
+                    ]
+                }
+            ],
+            "steps": [
+                "In a pot, sauté chopped, onion, and garlic until fragrant.",
+                "Add diced pumpkin and cook for 5 minutes.",
+                "Add vegetable broth and simmer for 20 minutes, until pumpkin is tender.",
+                "Blend the soup until smooth, then stir in coconut milk.",
+                "Season with salt and pepper, and serve hot."
+            ]
+        },
+        {
+            "name": "Sweet Potato and Lentil Curry",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Sweet Potato",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 86,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "20g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Red Lentils",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 116,
+                        "fiber": "8g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "20g",
+                        "proteins": "9g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Coconut Milk",
+                    "amount": "150ml",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "15g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Coconut"
+                    ]
+                },
+                {
+                    "name": "Curry Powder",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Spinach",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 12,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Peel and cube the sweet potato, then cook in a pot with water until tender.",
+                "Rinse the lentils and add them to the pot with the sweet potatoes.",
+                "Add curry powder and coconut milk, and simmer until the lentils are soft.",
+                "Stir in spinach and cook for an additional 2 minutes.",
+                "Serve hot with rice or naan bread."
+            ]
+        },
+        {
+            "name": "Chicken Stir Fry",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Chicken Breast",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 330,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "62g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Bell Peppers",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 31,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "7g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Soy Sauce",
+                    "amount": "30ml",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "Soy"
+                    ]
+                },
+                {
+                    "name": "Rice",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "34g",
+                        "proteins": "3g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cut the chicken breast into bite-sized pieces.",
+                "In a hot pan, stir-fry the chicken until golden brown.",
+                "Add sliced bell peppers and stir-fry for another 5 minutes.",
+                "Pour in the soy sauce and stir to combine.",
+                "Serve over cooked rice."
+            ]
+        },
+        {
+            "name": "Vegetable Quinoa Bowl",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Quinoa",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 180,
+                        "fiber": "5g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "32g",
+                        "proteins": "6g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Zucchini",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 17,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Cherry Tomatoes",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 18,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "4g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Feta Cheese",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 130,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "4g",
+                        "carbohydrates": "1g",
+                        "proteins": "6g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                }
+            ],
+            "steps": [
+                "Cook quinoa according to package instructions.",
+                "Chop zucchini and cherry tomatoes.",
+                "In a pan, sauté zucchini until tender.",
+                "Mix cooked quinoa with sautéed zucchini, cherry tomatoes, and crumbled feta cheese.",
+                "Serve warm."
+            ]
+        },
+        {
+            "name": "Banana Oatmeal",
+            "type": "snack",
+            "ingredients": [
+                {
+                    "name": "Rolled Oats",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 389,
+                        "fiber": "8g",
+                        "saturated_fatty_acids": "1.5g",
+                        "carbohydrates": "66g",
+                        "proteins": "16g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Banana",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 105,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "27g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Almond Milk",
+                    "amount": "200ml",
+                    "nutritional_value": {
+                        "calories": 30,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "1g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Nuts"
+                    ]
+                },
+                {
+                    "name": "Honey",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 64,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "17g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "In a pot, combine rolled oats and almond milk; cook over medium heat until creamy.",
+                "Slice the banana and add it to the oats.",
+                "Drizzle with honey and stir to combine.",
+                "Serve warm, optionally topped with nuts or seeds."
+            ]
+        },
+        {
+            "name": "Beef Tacos huge",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Ground Beef",
+                    "amount": "250g",
+                    "nutritional_value": {
+                        "calories": 350,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "12g",
+                        "carbohydrates": "0g",
+                        "proteins": "30g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Taco Shells",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 150,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "3g",
+                        "carbohydrates": "30g",
+                        "proteins": "4g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Lettuce",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 10,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "2g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Cheddar Cheese",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 200,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "9g",
+                        "carbohydrates": "1g",
+                        "proteins": "12g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Salsa",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 25,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "5g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "In a pan, cook the ground beef until browned.",
+                "Prepare taco shells according to package instructions.",
+                "Assemble tacos by adding cooked beef, lettuce, cheddar cheese, and salsa to each shell.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "name": "Caprese Salad",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Tomatoes",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 36,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "8g",
+                        "proteins": "2g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Mozzarella Cheese",
+                    "amount": "125g",
+                    "nutritional_value": {
+                        "calories": 300,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "15g",
+                        "carbohydrates": "3g",
+                        "proteins": "22g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Basil Leaves",
+                    "amount": "10g",
+                    "nutritional_value": {
+                        "calories": 2,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Olive Oil",
+                    "amount": "15ml",
+                    "nutritional_value": {
+                        "calories": 120,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "0g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Slice tomatoes and mozzarella cheese.",
+                "Layer tomatoes and mozzarella on a plate, alternating them.",
+                "Sprinkle with fresh basil leaves.",
+                "Drizzle with olive oil and season with salt and pepper to taste."
+            ]
+        },
+        {
+            "name": "Lentil Soup",
+            "type": "meal",
+            "ingredients": [
+                {
+                    "name": "Lentils",
+                    "amount": "200g",
+                    "nutritional_value": {
+                        "calories": 230,
+                        "fiber": "15g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "40g",
+                        "proteins": "18g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Carrots",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 41,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "10g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Celery",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 16,
+                        "fiber": "1g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "3g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Vegetable Broth",
+                    "amount": "1L",
+                    "nutritional_value": {
+                        "calories": 20,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "5g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "Rinse the lentils and set aside.",
+                "In a large pot, combine lentils, chopped carrots, and celery.",
+                "Add vegetable broth and bring to a boil.",
+                "Reduce heat and simmer for 30 minutes until lentils are tender.",
+                "Season with salt and pepper before serving."
+            ]
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "type": "snack",
+            "ingredients": [
+                {
+                    "name": "All-Purpose Flour",
+                    "amount": "250g",
+                    "nutritional_value": {
+                        "calories": 910,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0.5g",
+                        "carbohydrates": "190g",
+                        "proteins": "25g"
+                    },
+                    "allergens": [
+                        "Gluten"
+                    ]
+                },
+                {
+                    "name": "Butter",
+                    "amount": "125g",
+                    "nutritional_value": {
+                        "calories": 900,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "60g",
+                        "carbohydrates": "0g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Sugar",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 600,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "150g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Chocolate Chips",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 500,
+                        "fiber": "2g",
+                        "saturated_fatty_acids": "30g",
+                        "carbohydrates": "60g",
+                        "proteins": "5g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Egg",
+                    "amount": "50g",
+                    "nutritional_value": {
+                        "calories": 70,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "2g",
+                        "carbohydrates": "1g",
+                        "proteins": "6g"
+                    },
+                    "allergens": [
+                        "Egg"
+                    ]
+                }
+            ],
+            "steps": [
+                "Preheat the oven to 180°C (350°F).",
+                "In a bowl, cream together the butter and sugar until light and fluffy.",
+                "Add the egg and mix well.",
+                "Gradually add the flour and mix until combined.",
+                "Stir in the chocolate chips.",
+                "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+            ]
+        },
+        {
+            "name": "Fruit Smoothie",
+            "type": "snack",
+            "ingredients": [
+                {
+                    "name": "Banana",
+                    "amount": "100g",
+                    "nutritional_value": {
+                        "calories": 105,
+                        "fiber": "3g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "27g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Frozen Berries",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 70,
+                        "fiber": "4g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "15g",
+                        "proteins": "1g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                },
+                {
+                    "name": "Yogurt",
+                    "amount": "150g",
+                    "nutritional_value": {
+                        "calories": 100,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "4g",
+                        "carbohydrates": "10g",
+                        "proteins": "8g"
+                    },
+                    "allergens": [
+                        "Dairy"
+                    ]
+                },
+                {
+                    "name": "Honey",
+                    "amount": "1 tbsp",
+                    "nutritional_value": {
+                        "calories": 64,
+                        "fiber": "0g",
+                        "saturated_fatty_acids": "0g",
+                        "carbohydrates": "17g",
+                        "proteins": "0g"
+                    },
+                    "allergens": [
+                        "None"
+                    ]
+                }
+            ],
+            "steps": [
+                "In a blender, combine banana, frozen berries, yogurt, and honey.",
+                "Blend until smooth.",
+                "Serve immediately in a glass."
+            ]
+        }
+    ]
+}

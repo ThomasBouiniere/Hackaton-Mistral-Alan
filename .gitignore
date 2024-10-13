@@ -1,1 +1,6 @@
+*.pyc
+__pycache__/
 hackaton_mistral_alan/
+*.env
+db.sqlite3
+postgres_data/

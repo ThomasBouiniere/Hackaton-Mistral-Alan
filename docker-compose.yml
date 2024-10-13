@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  web:
+    build: ./django_app
+    command: python /code/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./django_app:/code
+    ports:
+      - "8001:8000"
+    depends_on:
+      - db
+    environment:
+      - DJANGO_SETTINGS_MODULE=django_project.settings
+
+  db:
+    build: ./postgre_app
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgre_app/postgres_data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: dbname
+
+volumes:
+  postgres_data:

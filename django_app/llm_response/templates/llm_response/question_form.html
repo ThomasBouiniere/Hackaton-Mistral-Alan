@@ -1,0 +1,32 @@
+<!-- my_app/templates/my_app/question_view.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posez votre question - Sport et Athlète</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'llm_response/styles.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Fuel your game with AI-mazing nutrition</h1>
+        <img src="{% static 'llm_response/sport_background.png' %}" alt="Sport Background" class="background-image">
+    </header>
+    
+    <main>
+        <section class="question-form-section">
+            <h2>Ask nutrition-related question:</h2>
+            <form method="POST" action="{% url 'llm_response:process_question' %}">
+                {% csrf_token %}
+                <input type="text" id="question" name="question" placeholder="Ex : What could be a nutritional plan to improve performance ?" required>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+    
+    <footer>
+        <p>© 2024 Sport & Athletes. All rights reserved.</p>
+    </footer>
+</body>
+</html>
